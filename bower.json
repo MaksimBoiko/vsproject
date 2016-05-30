@@ -1,0 +1,17 @@
+{
+  "name": "vsproject",
+  "description": "vs project",
+  "main": "",
+  "authors": [
+    "'Maksim <maks1102b@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MaksimBoiko/vsproject",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

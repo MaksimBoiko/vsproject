@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Мачу-Пикчу",
+    "location": "Перу",
+    "cover": "img/places/1.png",
+    "category": 3,
+    "star": false
+  },
+  {
+    "name": "Мечеть шейха Зайда",
+    "location": "Объединённые Арабские Эмираты",
+    "cover": "img/places/2.jpg",
+    "category": 4,
+    "star": false
+  },
+  {
+    "name": "Тадж-Махал",
+    "location": "Индия",
+    "cover": "img/places/3.jpg",
+    "category": 4,
+    "star": false
+  },
+  {
+    "name": "Геттисбергский военный парк",
+    "location": "Пенсильвания",
+    "cover": "img/places/4.jpg",
+    "category": 3,
+    "star": false
+  },
+  {
+    "name": "Картина — не преступление",
+    "location": "Минск",
+    "cover": "img/places/5.jpg",
+    "category": 6,
+    "star": false
+  },
+  {
+    "name": "Колизей",
+    "location": "Минск",
+    "cover": "img/places/6.jpg",
+    "category": 1,
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Замки",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Музеи",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Природа",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Этно",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Архитектура",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Архитектура",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Граффити",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Замки",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Архитектура",
+    "star": false
+  },
+  {
+    "location": "Минск",
+    "cover": "images/photo.png",
+    "category": "Музеи",
+    "star": false
+  }
+]

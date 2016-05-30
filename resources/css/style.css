@@ -35,11 +35,13 @@ body {
 
 .places .col-xs-6 {
     width: 49%;
+    padding: 15px;
 }
 
 @media (min-width: 1200px) {
   .places .col-lg-4 {
       width: 32.33333333%;
+      padding: 15px;
   }
 }
 
@@ -81,4 +83,14 @@ body {
 .places a:hover img {
   color: #000;
   opacity: 1;
+}
+
+.favorBlock {
+  margin-bottom: 20px;
+}
+
+.favorItem {
+  padding: 10px;
+  background: #fff;
+  border-bottom: 1px solid rgba(0,0,0,.2);
 }
