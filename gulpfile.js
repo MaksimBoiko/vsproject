@@ -36,12 +36,9 @@ gulp.task('style:build', function () {
         .pipe(reload({stream: true}));
 });
 
-var config = {
-    server: {
-        baseDir: "./dist"
-    },
-    tunnel: true,
-    host: 'localhost',
-    port: 9000,
-    logPrefix: "Frontend_Devil"
-};
+gulp.task('connect', function () {
+    connect.server({
+        root: 'resources',
+        port: 5000
+    })
+});
